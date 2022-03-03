@@ -8,7 +8,7 @@ eventos usando a sintaxe do React.
 
 Criar uma biblioteca de cartões de filmes utilizando React. A página deverá possuir um cabeçalho e uma lista de cartões.
 Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. Além disso, a página deve possuir 
-uma barra de busca, utilizada pra filtrar quais cartões serão exibidos na lista de cartões;
+uma barra de busca, utilizada pra filtrar quais cartões serão exibidos na lista de cartões, e um formulário para adicionar um novo cartão na biblioteca.
 
 **Principais habilidades desenvolvidas nesse trabalho:**
 
