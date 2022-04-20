@@ -1,10 +1,10 @@
 ## Projeto Movie Cards Library Stateful
 
-> Segundo projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Segundo projeto do módulo de Front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Dando continuidade ao primeiro projeto Movie Cards Library, aqui aplicamos o conceito de estado de componentes e capturamos
+Dando continuidade ao primeiro projeto [Movie Cards Library](https://github.com/willian-prado/movie-cards-library), aqui aplicamos o conceito de estado de componentes e capturamos
 eventos usando a sintaxe do React.
 
 **Objetivo do projeto**
@@ -13,7 +13,7 @@ Criar uma biblioteca de cartões de filmes utilizando React. A página deverá p
 Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação. Além disso, a página deve possuir 
 uma barra de busca, utilizada pra filtrar quais cartões serão exibidos na lista de cartões, e um formulário para adicionar um novo cartão na biblioteca.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
   - Inicializar um componente, dando a ele um estado pré-definido
@@ -224,3 +224,7 @@ O estado inicial do componente `<MovieLibrary />` deve ser:
 **20 - Adicione proptypes a todos os componentes**
 
 - Todos os componentes que recebem props devem ter suas proptypes corretamente declaradas. 
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
